@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "name": "Pizza Party",
+    "location": "Plaster 210",
+    "time": "3:00 PM",
+    "date": "2024/12/27",
+    "description": "First meeting of the semester and pizza!"
+  },
+  {
+    "id": "2",
+    "name": "Icecream Social",
+    "location": "Plaster 211",
+    "time": "12:00 AM",
+    "date": "2049/2/29",
+    "description": "I scream for ice"
+  },
+  {
+    "id": "3",
+    "name": "burger",
+    "location": "Plaster 211",
+    "time": "12:00 AM",
+    "date": "2049/2/29",
+    "description": "I scream for ice"
+  },
+  {
+    "id": "4",
+    "name": "spagethii",
+    "location": "Plaster 211",
+    "time": "12:00 AM",
+    "date": "2049/2/29",
+    "description": "I scream for ice"
+  }
+
+]
