@@ -5,9 +5,7 @@
   <div style="width:500px; padding: 5%;">
     <h1>Alumni Success Stories</h1>
     <ul>
-      <li>Edward Emanuel 1999 grad</li>
-      <li>job listing 2</li>
-      <li>job listing 3</li>
+      <li>Edward Emanuel is a 1999 graduate from MSSU.  He was a computer science major.  Edward currently works at Font Awesome.</li>
     </ul>
   </div>
 </template>
