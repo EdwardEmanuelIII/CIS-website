@@ -12,24 +12,24 @@
     "name": "Icecream Social",
     "location": "Plaster 211",
     "time": "12:00 AM",
-    "date": "2049/2/29",
-    "description": "I scream for ice"
+    "date": "2025/2/29",
+    "description": "Get some ice cream"
   },
   {
     "id": "3",
-    "name": "burger",
+    "name": "Burger Breakfast",
     "location": "Plaster 211",
-    "time": "12:00 AM",
-    "date": "2049/2/29",
-    "description": "I scream for ice"
+    "time": "9:00 AM",
+    "date": "2025/3/14",
+    "description": "Burgers for breakfast"
   },
   {
     "id": "4",
-    "name": "spagethii",
+    "name": "Speaker Event",
     "location": "Plaster 211",
-    "time": "12:00 AM",
-    "date": "2049/2/29",
-    "description": "I scream for ice"
+    "time": "3:00 PM",
+    "date": "2024/9/12",
+    "description": "Listen to someone talk about something"
   }
 
 ]

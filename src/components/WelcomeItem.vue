@@ -17,6 +17,7 @@
   margin-top: 2rem;
   display: flex;
   position: relative;
+  height: 150px
 }
 
 .details {
@@ -28,16 +29,15 @@ i {
   display: flex;
   place-items: center;
   place-content: center;
+  margin-left: 48px;
   width: 32px;
   height: 32px;
-
-  color: var(--color-text);
+  color: white;
 }
 
 h3 {
   font-size: 1.2rem;
   font-weight: 500;
-  margin-bottom: 0.4rem;
   color: var(--color-heading);
 }
 
@@ -51,8 +51,6 @@ h3 {
     top: calc(50% - 25px);
     left: -26px;
     position: absolute;
-    border: 1px solid var(--color-border);
-    background: var(--color-background);
     border-radius: 8px;
     width: 50px;
     height: 50px;
