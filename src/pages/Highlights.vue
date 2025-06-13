@@ -3,11 +3,12 @@
 
 <template>
   <div style="width:500px; padding: 5%;">
-    <h1>Job and Internship Listings</h1>
+    <h1>Club Highlights</h1>
     <ul>
-      <li>job listing 1</li>
-      <li>job listing 2</li>
-      <li>job listing 3</li>
+      <li>2025 Hoghacks
+        <a href="https://www.mssu.edu/news/2025/05/hackathon.php">link to article</a>
+
+      </li>
     </ul>
   </div>
 </template>
