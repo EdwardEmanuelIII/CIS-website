@@ -7,12 +7,17 @@
   font-weight: normal;
 }
 
-a,
+a, b,
 .blue {
   text-decoration: none;
   color: white;
   transition: 0.4s;
   padding: 3px;
+}
+
+.textblock {
+  width:80%; 
+  padding: 5%;
 }
 
 @media (hover: hover) {

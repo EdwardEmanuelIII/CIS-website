@@ -33,26 +33,26 @@ import PeopleIcon from './icons/IconPeople.vue'
     </WelcomeItem>
   </RouterLink>
 
-  <RouterLink to="/listings">
+  <RouterLink to="/highlights">
     <WelcomeItem class="rightAlign">
       <template #icon>
         <CommunityIcon />
       </template>
-      <template #heading><p class="title">Job and Internship Listings</p></template>
+      <template #heading><p class="title">Highlights</p></template>
       <p class="font-color">
-        Looking for jobs or internships in the Joplin area?  Take a look at our list!
+        Take a look at some of the highlights from our past events!
       </p>
     </WelcomeItem>
   </RouterLink>
 
-  <RouterLink to="/alumni">
+  <RouterLink to="/leadership">
     <WelcomeItem class="rightAlign">
       <template #icon>
         <HeartIcon />
       </template>
-      <template #heading><p class="title">Alumni Success Stories</p></template>
+      <template #heading><p class="title">Leadership</p></template>
       <p class="font-color">
-        Wanna hear some success stories of past CIS majors from Missouri Southern State University?
+        Wanna see who the students are behind the club? Click here to see our team!
       </p>
     </WelcomeItem>
   </RouterLink>

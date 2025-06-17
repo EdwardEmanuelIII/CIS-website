@@ -5,19 +5,19 @@ import { createWebHistory, createRouter } from 'vue-router'
 import App from './App.vue'
 import ResourcesView from './Resources.vue'
 import HomeView from './Home.vue'
-import ListingsView from './Listings.vue'
+import HighlightsView from './HighLights.vue'
 import EventDetailView from './EventDetail.vue'
 import EventsView from './Events.vue'
-import AlumniView from './Alumni.vue'
+import LeadershipView from './Leadership.vue'
 import AboutUsView from './AboutUs.vue'
 
 const routes = [
   { path: '/', component: HomeView },
   { path: '/resources', component: ResourcesView },
-  { path: '/listings', component: ListingsView },
+  { path: '/highlights', component: HighlightsView },
   { path: '/events/:eventid', component: EventDetailView },
   { path: '/events', component: EventsView },
-  { path: '/alumni', component: AlumniView },
+  { path: '/leadership', component: LeadershipView },
   { path: '/aboutus', component: AboutUsView },
 ]
 

@@ -7,11 +7,11 @@
         |
         <RouterLink to="/resources">Resources</RouterLink>
         |
-        <RouterLink to="/listings">Listings</RouterLink>
+        <RouterLink to="/highlights">Highlights</RouterLink>
         |
         <RouterLink to="/events">Events</RouterLink>
         |
-        <RouterLink to="/alumni">Alumni Stories</RouterLink>
+        <RouterLink to="/leadership">Leadership</RouterLink>
         |
         <RouterLink to="/aboutus">About Us</RouterLink>
       </nav>
