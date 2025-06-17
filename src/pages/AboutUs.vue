@@ -18,6 +18,9 @@
     Meeting times are listed on our <a href="https://www.instagram.com/mssucric/ ">Instagram</a>
     <br>
     <h1>Contact Information</h1>
+    Contact: Dr. Swarna Sethu, Faculty Advisor
+    <br>
+    Email: sethu-s@mssu.edu
   </div>
 </template>
 

@@ -15,6 +15,11 @@ a, b,
   padding: 3px;
 }
 
+.textblock {
+  width:80%; 
+  padding: 5%;
+}
+
 @media (hover: hover) {
   a:hover {
     background-color: hsla(160, 100%, 37%, 0.2);
